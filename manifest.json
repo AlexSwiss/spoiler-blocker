@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "spoiler blocker",
+  "version": "1.0.0",
+  "description": "block request from pages with a spoiler to your favourite show"
+}
