@@ -3,6 +3,7 @@
   "name": "tab_sorter",
   "version": "1.0.0",
   "description": "A chrome extension which arranges the tabs with related urls together",
+  "permissions": ["tabs"],
 
   "browser_action": {
          "default_popup": "popup.html",
